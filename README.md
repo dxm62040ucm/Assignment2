@@ -8,4 +8,4 @@ The program takes user input for first_name and last_name, concatenates them int
 
 program to find the wordcount in a file (input.txt) for each line and then print the output. Finally store the output in output.txt file.
 
-program, which reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using:
+program, which reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list.
